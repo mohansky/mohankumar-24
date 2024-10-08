@@ -1,0 +1,35 @@
+title: What I do
+subtitle: I can do
+subtitle3: for you
+description:
+  - Welcome to my website! I'm a passionate web developer who thrives on pushing the boundaries of technology and design. With a keen eye for aesthetics and a deep understanding of the latest trends in web development, I specialize in crafting digital experiences that seamlessly blend creativity and innovation.  
+  - In my projects, I leverage technologies like Next.js and Astro to build lightning-fast and highly interactive websites. These frameworks not only enhance performance but also enable me to create dynamic user interfaces that engage visitors and provide them with a truly immersive journey. My commitment to staying ahead of the curve in the tech world allows me to deliver websites that are not only visually captivating but also offer a smooth and responsive user experience.
+  - I firmly believe that design is at the heart of exceptional web development. Every line of code I write is infused with a sense of aesthetics, ensuring that your website not only functions flawlessly but also captivates with its visual appeal. From sleek and modern layouts to attention-grabbing animations, I take pride in creating designs that leave a lasting impression. If you're ready to embark on a digital journey that combines the latest technology with striking design, I'm here to turn your ideas into reality.
+toolstitle: Some of the tools in my toolkit.
+toolsitems: 
+  - name: React
+    icon: logos:react
+  - name: Nextjs
+    icon: logos:nextjs-icon
+  - name: Gatsby
+    icon: logos:gatsby
+  - name: Astro
+    icon: logos:astro-icon
+  - name: Tailwindcss
+    icon: logos:tailwindcss-icon
+  - name: Bootstrap
+    icon: logos:bootstrap
+  - name: Contentful
+    icon: logos:contentful
+  - name: Prismic
+    icon: logos:prismic-icon
+  - name: Graphql
+    icon: logos:graphql
+  - name: Nodejs
+    icon: logos:nodejs-icon
+  - name: Supabase
+    icon: logos:supabase-icon
+  - name: Netlify
+    icon: logos:netlify-icon
+  - name: Vercel
+    icon: logos:vercel-ico

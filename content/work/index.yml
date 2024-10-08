@@ -1,0 +1,72 @@
+title: Some of my work
+subtitle: created
+workItems:
+      - id: 1
+        draft: false
+        url: https://asianschool.bh/
+        title: School website
+        category: Website for The Asian School.
+        tools: 
+            - Development
+            - NextJs
+            - Contentful
+        src: /images/work/asianschool.jpg
+      - id: 2
+        draft: false
+        url: https://www.arghyalegal.com/
+        title: Λrgħyä Legal
+        category: Λrgħyä Legal is a boutique law firm based in Bangalore.
+        tools: 
+         - Design
+         - Development
+         - Nextjs
+        src: /images/work/arghyalegal.jpg     
+      - id: 3
+        draft: false
+        url: https://nnejourneys.com/
+        title: North by Northeast Journeys
+        category: An adventure travel company in Assam India.
+        tools: 
+         - Design
+         - Development
+         - Nextjs
+        src: /images/work/nnejourneys.jpg
+      - id: 4
+        draft: false
+        url: https://la-volotte.de/products/
+        title: La Volotte
+        category: Online shop for a lovely Wool shop in Aachen.
+        tools: 
+            - Design
+            - Development
+            - Hugo
+        src: /images/work/la-volotte.jpg
+      - id: 5
+        draft: true
+        url: https://www.atmaseva.co.uk
+        title: Atma Seva
+        category: Landing page for an NGO in Uttarakhand.
+        tools:
+            - Development
+            - Gatsby
+        src: /images/work/atma-seva.jpg
+      - id: 6
+        draft: false
+        url: https://berliner-jobcoach.de/
+        title: Berliner Job Coach
+        category: Appointment booking site for a Job coach in Berlin.
+        tools: 
+            - Design
+            - Development
+            - Hugo
+        src: /images/work/berliner-job-coach.jpg
+      - id: 7
+        draft: false
+        url: https://toadlabs.in/
+        title: Toadlabs Technology Inc
+        category: Business site for holographic solutions.
+        tools: 
+            - Design
+            - Development
+            - Gatsby
+        src: /images/work/toadlabs.jpg
