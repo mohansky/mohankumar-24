@@ -19,7 +19,7 @@ export const onFormAction = async (
 
   if (parsed.success) {
     await resend.emails.send({
-      from: "MK <mohansky@gmail.com>",
+      from: "MK <mail@mohankumar.dev>",
       to: "mohansky@gmail.com",
       subject: `Enquiry from ${parsed.data.senderName}`,
       replyTo: parsed.data.email as string,
