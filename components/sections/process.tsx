@@ -18,20 +18,22 @@ export default function Process() {
               return (
                 <WobbleCard
                   key={item.id}
-                  containerClassName="h-full bg-primary min-h-[500px] lg:min-h-[300px]"
+                  containerClassName="h-auto bg-primary min-h-[350px] lg:min-h-[300px]"
                   className=""
                 >
-                  <h2 className="max-w-80  text-left text-balance text-base md:text-xl lg:text-3xl font-semibold tracking-[-0.015em] text-neutral-200">
+                  <Heading 
+                  size="sm"
+                  className="max-w-80 text-left text-balance tracking-[-0.015em] text-neutral-200">
                     <span>{item.id}. </span>
                     {item.name}
-                  </h2>
+                  </Heading>
                   <p className="mt-4 max-w-[26rem] text-left  text-base/6 text-neutral-200">
                     {item.desc}
                   </p>
                   <Icon
                     icon={item.icon}
                     width="150"
-                    className="text-neutral-200 absolute -right-10 md:-right-[40%] lg:-right-[1%] -bottom-10 object-contain rounded-2xl"
+                    className="text-neutral-200 absolute -right-5 md:-right-[40%] lg:-right-[1%] -bottom-5 md:-bottom-10 object-contain rounded-2xl"
                   />
                 </WobbleCard>
               );
